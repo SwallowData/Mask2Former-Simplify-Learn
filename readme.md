@@ -1,4 +1,5 @@
 # Update 2023.06.16
+
 * "Modify the configs\Base-segmention.yaml file to add support for SwinTransformer
 * Add configs\maskformer_nuimages.yaml to support the Nuimages dataset, and there is no need to install Nuimages Toolkit
 * Add the wandb library to the training code, and you can see the training process on the Wandb website
