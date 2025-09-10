@@ -1,3 +1,6 @@
+# Update 2025.0910
+**重要文件添加逐行中文注释**
+
 # Update 2023.06.16
 * "Modify the configs\Base-segmention.yaml file to add support for SwinTransformer
 * Add configs\maskformer_nuimages.yaml to support the Nuimages dataset, and there is no need to install Nuimages Toolkit
