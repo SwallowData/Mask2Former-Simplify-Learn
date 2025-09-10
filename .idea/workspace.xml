@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99d70e3f-d5c4-409a-b01f-58439a4fb195" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Mask2Former-Simplify.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/NuImages/nuimages.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/NuImages/nuimages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset/dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataset/dataset.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modeling/MaskFormerModel.py" beforeDir="false" afterPath="$PROJECT_DIR$/modeling/MaskFormerModel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modeling/backbone/resnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/modeling/backbone/resnet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modeling/backbone/swin.py" beforeDir="false" afterPath="$PROJECT_DIR$/modeling/backbone/swin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modeling/pixel_decoder/msdeformattn.py" beforeDir="false" afterPath="$PROJECT_DIR$/modeling/pixel_decoder/msdeformattn.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modeling/transformer_decoder/mask2former_transformer_decoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/modeling/transformer_decoder/mask2former_transformer_decoder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/criterion.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/criterion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/matcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/matcher.py" afterDir="false" />
-    </list>
+    <list default="true" id="99d70e3f-d5c4-409a-b01f-58439a4fb195" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +33,6 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/pr/Mask2Former-Simplify",
     "settings.editor.selected.configurable": "preferences.toDoOptions"
   }
