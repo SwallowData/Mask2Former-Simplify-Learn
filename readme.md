@@ -1,6 +1,7 @@
 # Update 2025.09.10
 **重点部分添加中文注释**
-
+引用如下
+https://github.com/zzubqh/Mask2Former-Simplify/
 # Update 2023.06.16
 
 * "Modify the configs\Base-segmention.yaml file to add support for SwinTransformer
