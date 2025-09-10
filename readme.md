@@ -1,3 +1,6 @@
+# Update 2025.09.10
+**重点部分添加中文注释**
+
 # Update 2023.06.16
 
 * "Modify the configs\Base-segmention.yaml file to add support for SwinTransformer
